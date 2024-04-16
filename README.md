@@ -1,3 +1,3 @@
-Image-Color-Picker
-Image-Color-Picker in HTML CDS AND IAJNDCCID
-JEOIOEIR
+# Image Color Picker
+Image Color Picker in HTML CSS and JAVASCRIPT
+Must try
